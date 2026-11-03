@@ -5,7 +5,7 @@
 The MBS measures size, optical shape and UV-induced fluorescence of single coarse-mode particles. We use it to find bioaerosols in Arctic air, in clouds and in sea spray. This repository collects the group's MBS code, publications and open data in one place.
 
 <p align="center">
-  <img src="images/MBS.JPG" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
+  <img src="images/MBS.jpg" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
   <br><em>The Stockholm University MBS (University of Hertfordshire, UK).</em>
 </p>
 
@@ -15,7 +15,17 @@ The MBS measures size, optical shape and UV-induced fluorescence of single coars
 
 Excitation at 280 nm (xenon flash). A highly fluorescent particle with its maximum in channel B, near the tryptophan peak, is classified as a fluorescent primary biological aerosol particle (fPBAP).
 
-**Contents:** [Code](#code) · [Publications](#publications) · [Data](#data) · [Contact](#contact)
+**Contents:** [Field campaigns](#field-campaigns) · [Code](#code) · [Publications](#publications) · [Theses](#theses) · [Data](#data) · [Contact](#contact)
+
+---
+
+## Field campaigns
+
+MBS measurement locations so far: ship campaigns, observatories and laboratory experiments.
+
+<p align="center">
+  <img src="images/mbs-campaigns.png" alt="World map of MBS measurement locations: EMB184 and Electra (Baltic Sea), MOCCHA and ARTofMELT 2023 (Arctic Ocean), Zeppelin Observatory (Svalbard), AGENA (Azores), Maido Observatory (La Réunion), HAC2 Observatory (Greece), PIANO lab experiments (Denmark), ATTO tower (Brazil) and SU lab experiments (Sweden)" width="900">
+</p>
 
 ---
 
@@ -31,9 +41,11 @@ Excitation at 280 nm (xenon flash). A highly fluorescent particle with its maxim
 
 ## Publications
 
-Peer-reviewed papers and theses from the Stockholm group based on MBS measurements, newest first and numbered from the oldest (1).
+Peer-reviewed papers and book chapters from the Stockholm group based on MBS measurements, newest first and numbered from the oldest (1).
 
-9\. **Jönsson, A.**, Fu, J., Pereira Freitas, G., Crawford, I., Dagsson-Waldhauserová, P., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2026). Tracing biological, anthropogenic, and inorganic sources of coarse aerosols via single-particle fluorescence and optical morphology. *Atmos. Chem. Phys.*, 26, 13617–13643. [doi:10.5194/acp-26-13617-2026](https://doi.org/10.5194/acp-26-13617-2026)
+10\. **Jönsson, A.**, Fu, J., Pereira Freitas, G., Crawford, I., Dagsson-Waldhauserová, P., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2026). Tracing biological, anthropogenic, and inorganic sources of coarse aerosols via single-particle fluorescence and optical morphology. *Atmos. Chem. Phys.*, 26, 13617–13643. [doi:10.5194/acp-26-13617-2026](https://doi.org/10.5194/acp-26-13617-2026)
+
+9\. **Zieger, P.**, Zinke, J., Pereira Freitas, G., and Salter, M. (2025). Release of primary biological aerosol particles from surface waters. Chapter 7 in: Morris, C. E., Kobziar, L. N., Christner, B. C., Garros, C., and De Vleeschouwer, F. (eds.), *Biological Highways in the Sky*. Éditions Quae, Versailles. [doi:10.35690/978-2-7592-4126-2](https://doi.org/10.35690/978-2-7592-4126-2) (open access)
 
 8\. **Pereira Freitas, G.**, Kojoj, J., Mavis, C., Creamean, J., Mattsson, F., Nilsson, L., Spicker Schmidt, J., Adachi, K., Šantl-Temkiv, T., Ahlberg, E., Mohr, C., Riipinen, I., and Zieger, P. (2025). A comprehensive characterisation of natural aerosol sources in the high Arctic during the onset of sea ice melt. *Faraday Discussions*, 258. [doi:10.1039/d4fd00162a](https://doi.org/10.1039/d4fd00162a)
 
@@ -47,10 +59,17 @@ Peer-reviewed papers and theses from the Stockholm group based on MBS measuremen
 
 3\. **Pereira Freitas, G.**, Adachi, K., Conen, F., Heslin-Rees, D., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2023). Regionally sourced bioaerosols drive high-temperature ice nucleating particles in the Arctic. *Nature Communications*, 14, 5997. [doi:10.1038/s41467-023-41696-7](https://doi.org/10.1038/s41467-023-41696-7)
 
-2\. **Pereira Freitas, G.** (2023). *Bioaerosols and their importance for low-level Arctic clouds.* PhD thesis, Stockholm University. [urn:nbn:se:su:diva-223503](http://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-223503)
+2\. **Pasquier, J. T.**, David, R. O., Freitas, G., Gierens, R., Gramlich, Y., Haslett, S., Li, G., Schäfer, B., Siegel, K., Wieder, J., Adachi, K., Belosi, F., Carlsen, T., Decesari, S., Ebell, K., Gilardoni, S., Gysel-Beer, M., Henneberger, J., Inoue, J., Kanji, Z. A., Koike, M., Kondo, Y., Krejci, R., Lohmann, U., Maturilli, M., Mazzolla, M., Modini, R., Mohr, C., Motos, G., Nenes, A., Nicosia, A., Ohata, S., Paglione, M., Park, S., Pileci, R. E., Ramelli, F., Rinaldi, M., Ritter, C., Sato, K., Storelvmo, T., Tobo, Y., Traversi, R., Viola, A., and Zieger, P. (2022). The Ny-Ålesund Aerosol Cloud Experiment (NASCENT): Overview and first results. *Bulletin of the American Meteorological Society*, 103(11), E2533–E2558. [doi:10.1175/BAMS-D-21-0034.1](https://doi.org/10.1175/BAMS-D-21-0034.1)
 
 1\. **Freitas, G. P.**, Stolle, C., Kaye, P. H., Stanley, W., Herlemann, D. P. R., Salter, M. E., and Zieger, P. (2022). Emission of primary bioaerosol particles from Baltic seawater. *Environ. Sci.: Atmos.*, 2, 1170–1182. [doi:10.1039/d2ea00047d](https://doi.org/10.1039/d2ea00047d)
 
+
+---
+
+## Theses
+
+- **Pereira Freitas, G.** (2023). *Bioaerosols and their importance for low-level Arctic clouds.* PhD thesis, Department of Environmental Science, Stockholm University. [urn:nbn:se:su:diva-223503](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-223503)
+- **Fu, J.** (2022). *Characterisation of aerosol particles relevant for the Arctic using a light-induced-fluorescence and light-scattering method.* MSc thesis (45 ECTS), Master's Programme in Environmental Science, Stockholm University.
 
 ---
 
