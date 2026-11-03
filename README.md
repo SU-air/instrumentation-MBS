@@ -5,7 +5,7 @@
 The MBS measures size, optical shape and UV-induced fluorescence of single coarse-mode particles. We use it to find bioaerosols in Arctic air, in clouds and in sea spray. This repository collects the group's MBS code, publications and open data in one place.
 
 <p align="center">
-  <img src="images/mbs-instrument.jpg" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
+  <img src="images/MBS.JPG" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
   <br><em>The Stockholm University MBS (University of Hertfordshire, UK).</em>
 </p>
 
