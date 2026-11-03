@@ -5,7 +5,7 @@
 The MBS measures size, optical shape and UV-induced fluorescence of single coarse-mode particles. We use it to find bioaerosols in Arctic air, in clouds and in sea spray. This repository collects the group's MBS code, publications and open data in one place.
 
 <p align="center">
-  <img src="images/MBS.jpg" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
+  <img src="images/MBS.JPG" alt="The Multiparameter Bioaerosol Spectrometer (MBS) of Stockholm University" width="560">
   <br><em>The Stockholm University MBS (University of Hertfordshire, UK).</em>
 </p>
 
@@ -24,7 +24,7 @@ Excitation at 280 nm (xenon flash). A highly fluorescent particle with its maxim
 MBS measurement locations so far: ship campaigns, observatories and laboratory experiments.
 
 <p align="center">
-  <img src="images/mbs-campaigns.png" alt="World map of MBS measurement locations: EMB184 and Electra (Baltic Sea), MOCCHA and ARTofMELT 2023 (Arctic Ocean), Zeppelin Observatory (Svalbard), AGENA (Azores), Maido Observatory (La Réunion), HAC2 Observatory (Greece), PIANO lab experiments (Denmark), ATTO tower (Brazil) and SU lab experiments (Sweden)" width="900">
+  <img src="images/measurement_map.png" alt="World map of MBS measurement locations: EMB184 and Electra (Baltic Sea), MOCCHA and ARTofMELT 2023 (Arctic Ocean), Zeppelin Observatory (Svalbard), AGENA (Azores), Maido Observatory (La Réunion), HAC2 Observatory (Greece), PIANO lab experiments (Denmark), ATTO tower (Brazil) and SU lab experiments (Sweden)" width="900">
 </p>
 
 ---
