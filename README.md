@@ -13,7 +13,7 @@ The MBS measures size, optical shape and UV-induced fluorescence of single coars
 |---|---|---|---|---|---|---|---|---|
 | Centre wavelength (nm) | 315 | **364** | 414 | 461 | 508 | 552 | 595 | 640 |
 
-Excitation at 280 nm (xenon flash). A highly fluorescent particle with its maximum in channel B, near the tryptophan peak, is classified as a fluorescent primary biological aerosol particle (fPBAP).
+Excitation at 280 nm (xenon flash). 
 
 **Contents:** [Field campaigns](#field-campaigns) · [Code](#code) · [Publications](#publications) · [Theses](#theses) · [Data](#data) · [Contact](#contact)
 
@@ -41,11 +41,9 @@ MBS measurement locations so far: ship campaigns, observatories and laboratory e
 
 ## Publications
 
-Peer-reviewed papers and book chapters from the Stockholm group based on MBS measurements, newest first and numbered from the oldest (1).
+Peer-reviewed papers and book chapters from the Stockholm group based on MBS measurements or that include MBS measurements, newest first and numbered from the oldest (1).
 
-10\. **Jönsson, A.**, Fu, J., Pereira Freitas, G., Crawford, I., Dagsson-Waldhauserová, P., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2026). Tracing biological, anthropogenic, and inorganic sources of coarse aerosols via single-particle fluorescence and optical morphology. *Atmos. Chem. Phys.*, 26, 13617–13643. [doi:10.5194/acp-26-13617-2026](https://doi.org/10.5194/acp-26-13617-2026)
-
-9\. **Zieger, P.**, Zinke, J., Pereira Freitas, G., and Salter, M. (2025). Release of primary biological aerosol particles from surface waters. Chapter 7 in: Morris, C. E., Kobziar, L. N., Christner, B. C., Garros, C., and De Vleeschouwer, F. (eds.), *Biological Highways in the Sky*. Éditions Quae, Versailles. [doi:10.35690/978-2-7592-4126-2](https://doi.org/10.35690/978-2-7592-4126-2) (open access)
+9\. **Jönsson, A.**, Fu, J., Pereira Freitas, G., Crawford, I., Dagsson-Waldhauserová, P., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2026). Tracing biological, anthropogenic, and inorganic sources of coarse aerosols via single-particle fluorescence and optical morphology. *Atmos. Chem. Phys.*, 26, 13617–13643. [doi:10.5194/acp-26-13617-2026](https://doi.org/10.5194/acp-26-13617-2026)
 
 8\. **Pereira Freitas, G.**, Kojoj, J., Mavis, C., Creamean, J., Mattsson, F., Nilsson, L., Spicker Schmidt, J., Adachi, K., Šantl-Temkiv, T., Ahlberg, E., Mohr, C., Riipinen, I., and Zieger, P. (2025). A comprehensive characterisation of natural aerosol sources in the high Arctic during the onset of sea ice melt. *Faraday Discussions*, 258. [doi:10.1039/d4fd00162a](https://doi.org/10.1039/d4fd00162a)
 
@@ -70,6 +68,12 @@ Peer-reviewed papers and book chapters from the Stockholm group based on MBS mea
 
 - **Pereira Freitas, G.** (2023). *Bioaerosols and their importance for low-level Arctic clouds.* PhD thesis, Department of Environmental Science, Stockholm University. [urn:nbn:se:su:diva-223503](https://urn.kb.se/resolve?urn=urn:nbn:se:su:diva-223503)
 - **Fu, J.** (2022). *Characterisation of aerosol particles relevant for the Arctic using a light-induced-fluorescence and light-scattering method.* MSc thesis (45 ECTS), Master's Programme in Environmental Science, Stockholm University.
+
+---
+
+## Book chapters
+
+- **Zieger, P.**, Zinke, J., Pereira Freitas, G., and Salter, M. (2025). Release of primary biological aerosol particles from surface waters. Chapter 7 in: Morris, C. E., Kobziar, L. N., Christner, B. C., Garros, C., and De Vleeschouwer, F. (eds.), *Biological Highways in the Sky*. Éditions Quae, Versailles. [doi:10.35690/978-2-7592-4126-2](https://doi.org/10.35690/978-2-7592-4126-2) (open access)
 
 ---
 
