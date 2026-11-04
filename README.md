@@ -96,6 +96,6 @@ Open-access datasets on the [Bolin Centre Database](https://bolin.su.se/data/) t
 
 ## Contact
 
-Paul Zieger, Department of Environmental Science, Stockholm University · paul.zieger@aces.su.se
+[Paul Zieger](https://www.su.se/english/profiles/p/pzieg), Department of Environmental Science, Stockholm University · paul.zieger@aces.su.se
 
 The MBS was developed by the University of Hertfordshire (Paul Kaye, Warren Stanley).
