@@ -41,8 +41,6 @@ MBS measurement locations so far: ship campaigns, observatories and laboratory e
 
 ## Publications
 
-Peer-reviewed papers and book chapters from the Stockholm group based on MBS measurements or that include MBS measurements, newest first and numbered from the oldest (1).
-
 11\. **Jönsson, A.**, Fu, J., Pereira Freitas, G., Crawford, I., Dagsson-Waldhauserová, P., Krejci, R., Tobo, Y., Yttri, K. E., and Zieger, P. (2026). Tracing biological, anthropogenic, and inorganic sources of coarse aerosols via single-particle fluorescence and optical morphology. *Atmos. Chem. Phys.*, 26, 13617–13643. [doi:10.5194/acp-26-13617-2026](https://doi.org/10.5194/acp-26-13617-2026)
 
 10\. **Pereira Freitas, G.**, Kojoj, J., Mavis, C., Creamean, J., Mattsson, F., Nilsson, L., Spicker Schmidt, J., Adachi, K., Šantl-Temkiv, T., Ahlberg, E., Mohr, C., Riipinen, I., and Zieger, P. (2025). A comprehensive characterisation of natural aerosol sources in the high Arctic during the onset of sea ice melt. *Faraday Discussions*, 258. [doi:10.1039/d4fd00162a](https://doi.org/10.1039/d4fd00162a)
